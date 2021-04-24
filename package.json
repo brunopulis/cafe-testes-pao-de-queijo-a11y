@@ -1,0 +1,24 @@
+{
+  "name": "review-ponto-frio",
+  "version": "1.0.0",
+  "description": "Review da Home do Ponto Frio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunopulis/review-ponto-frio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunopulis/review-ponto-frio/issues"
+  },
+  "homepage": "https://github.com/brunopulis/review-ponto-frio#readme",
+  "devDependencies": {
+    "cypress": "^7.1.0",
+    "cypress-axe": "^0.12.2"
+  }
+}
