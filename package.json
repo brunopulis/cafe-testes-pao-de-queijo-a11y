@@ -1,22 +1,23 @@
 {
-  "name": "review-ponto-frio",
+  "name": "cafe-testes-pao-de-queijo-a11y",
   "version": "1.0.0",
-  "description": "Review da Home do Ponto Frio",
+  "description": "Review da Home do Fast shop",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brunopulis/review-ponto-frio.git"
+    "url": "git+https://github.com/brunopulis/cafe-testes-pao-de-queijo-a11y.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["axe", "a11y"],
+  "author": "Bruno Pulis <brunopulis@protonmail.com",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/brunopulis/review-ponto-frio/issues"
+    "url": "https://github.com/brunopulis/cafe-testes-pao-de-queijo-a11y/issues"
   },
-  "homepage": "https://github.com/brunopulis/review-ponto-frio#readme",
+  "homepage": "https://github.com/brunopulis/cafe-testes-pao-de-queijo-a11y#readme",
   "devDependencies": {
     "axe-core": "^4.2.0",
     "cypress": "^7.1.0",
