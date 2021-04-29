@@ -1,5 +1,7 @@
 {
   "baseUrl": "https://www.fastshop.com.br/web/",
   "viewportWidth": 1200,
-  "viewportHeight": 768
+  "viewportHeight": 768,
+  "projectId": "fdqqzz",
+  "video": false
 }
