@@ -19,7 +19,7 @@
   "homepage": "https://github.com/brunopulis/review-ponto-frio#readme",
   "devDependencies": {
     "axe-core": "4.2.2",
-    "cypress": "7.4.0",
+    "cypress": "7.5.0",
     "cypress-axe": "0.12.2"
   }
 }
