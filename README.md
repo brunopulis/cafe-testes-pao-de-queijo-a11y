@@ -2,6 +2,8 @@
 
 Projeto da apresentação do meetup.
 
+> Esse repositório foi migrado para o [Codeberg](https://codeberg.org/brunopulis/cafe-testes-pao-de-queijo-a11y)
+
 ## Instalação
 
 Rode o comando `npm install`
